@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KCblama19
-- 👀 I’m interested in ...Coding, progrmming and social stuffs.
+- 👀 I’m interested in ...Coding, programming and social stuffs.
 - 🌱 I’m currently learning ...Coding and programming.
 - 💞️ I’m looking to collaborate on ...any platform that's working on both big and small projects.
 - 📫 How to reach me ...abrahamblama19@gmail.com
