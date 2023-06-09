@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcblama19" alt="kcblama19" /></a> </p>
 
-- 🌱 I’m currently learning **C,Javascript,shell scripting**
+- 🌱 I’m currently learning **C, Javascript, and shell scripting**
 
-- 💬 Ask me about **Sass,Boots**
+- 💬 Ask me about **HTML, CSS, SASS**
 
 - 📫 How to reach me **abrahamblama19@gmail.com**
 
