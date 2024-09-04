@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham K. Blama</h1>
-<h3 align="center">A passionate ALX Software Engineering Student from Liberia</h3>
+<h3 align="center">A Passionate Emerging Software Engineering Student from Liberia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcblama19" alt="kcblama19" /></a> </p>
 
