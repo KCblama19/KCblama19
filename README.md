@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcblama19" alt="kcblama19" /></a> </p>
 
-- 🌱 I’m currently learning **C, Javascript, and shell scripting**
+- 🌱 I’m currently learning **Python, DSA, and Databases**
 
 - 💬 Ask me about **HTML, CSS, SASS**
 
