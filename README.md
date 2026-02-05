@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abraham K. Blama</h1>
-<h3 align="center">A Passionate Emerging Software Engineering Student from Liberia</h3>
+<h3 align="center">A Passionate Software Engineering Student from Liberia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcblama19" alt="kcblama19" /></a> </p>
 
-- 🌱 I’m currently learning **Python, DSA, and Databases**
+- 🌱 I’m currently learning **Django, Databases, and Backend development**
 
-- 💬 Ask me about **HTML, CSS, SASS**
+- 💬 Ask me about **Python, CSS, SASS**
 
 - 📫 How to reach me **abrahamblama19@gmail.com**
 
